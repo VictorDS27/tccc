@@ -7,7 +7,7 @@
 }
 
 body{
-    background-image: linear-gradient(to right, #cfd9df 0%, #e2ebf0 100%);
+    background: #FFF5E4;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -16,10 +16,10 @@ body{
 }
 
 .linksnav:hover{
-    color: #5F7261;
+    color: #AF7AB3;
     font-weight: bold;
 }
 
 .titulo{
-    color: #5F7261;
+    color: #AF7AB3;
 }
